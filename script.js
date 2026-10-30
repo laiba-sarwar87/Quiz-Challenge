@@ -1,29 +1,28 @@
-
 const questions = [
   {
-    question: "What is the output of print(2 ** 3 ** 2)?",
-    options: ["64", "512", "36", "12"],
+    question: "Inside a class method, what does 'self' refer to?",
+    options: ["The class itself", "The instance of the class", "The parent class", "A global variable"],
     answer: 1
   },
   {
-    question: "Which of these data types is mutable?",
-    options: ["tuple", "string", "list", "frozenset"],
+    question: "Which of these data types is immutable?",
+    options: ["list", "dictionary", "tuple", "set"],
     answer: 2
   },
   {
-    question: 'What does bool("False") return?',
-    options: ["False", "True", "Error", "None"],
+    question: "What is the output of print(10 % 3)?",
+    options: ["3", "1", "0", "3.33"],
     answer: 1
   },
   {
-    question: "What is the output of [x*2 for x in range(3)]?",
-    options: ["[0, 2, 4]", "[2, 4, 6]", "[0, 1, 2]", "Error"],
+    question: "What is the output of print('hello'.upper())?",
+    options: ["HELLO", "hello", "Hello", "Error"],
     answer: 0
   },
   {
-    question: "Which block catches exceptions in Python?",
-    options: ["finally", "except", "catch", "rescue"],
-    answer: 1
+    question: "Which statement is used to exit a loop immediately in Python?",
+    options: ["stop", "exit", "return", "break"],
+    answer: 3
   }
 ];
 
