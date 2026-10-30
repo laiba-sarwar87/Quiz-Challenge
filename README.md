@@ -5,7 +5,7 @@ A simple and interactive Quiz App with a beautiful UI.
 **"5 questions. How many can you get right?"**
 
 ### 🔗 Live Demo
-👉 https://laibasarwar87.github.io/Quiz-Challenge/
+👉 https://laiba-sarwar87.github.io/Quiz-Challenge/
 
 ### ✨ Features
 - 5 Interactive MCQs
