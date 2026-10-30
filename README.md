@@ -25,8 +25,6 @@ A simple and interactive Quiz App with a beautiful UI.
 2. Open `index.html` in your browser
 3. Click on "Start Quiz" and enjoy!
 
-### 📸 Screenshot
-![Quiz Challenge Screenshot](screenshot.png)
 
 ### 👩‍💻 Author
 Laiba Sarwar
