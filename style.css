@@ -27,8 +27,6 @@ body::before {
   filter: blur(2px) brightness(0.5);
   z-index: -1;
 }
-
-
 body {
   font-family: 'Segoe UI', sans-serif;
   background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
@@ -66,12 +64,10 @@ h2 {
   margin: 20px 0;
   font-size: 22px;
 }
-
 p {
   color: #c4b5fd;
   margin-bottom: 20px;
 }
-
 #progress {
   color: #00f0ff;
   font-weight: bold;
