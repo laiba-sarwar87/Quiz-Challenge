@@ -37,7 +37,6 @@ body {
   padding: 20px;
   color: white;
 }
-
 .container {
   background: rgba(15, 12, 41, 0.9);
   border: 2px solid #a855f7;
@@ -52,7 +51,6 @@ body {
 .hidden {
   display: none;
 }
-
 h1 {
   font-size: 32px;
   margin-bottom: 15px;
