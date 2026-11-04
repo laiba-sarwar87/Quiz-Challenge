@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: 'Segoe UI', sans-serif;
   min-height: 100vh;
@@ -13,7 +12,6 @@ body {
   padding: 20px;
   color: white;
 }
-
 body::before {
   content: "";
   position: fixed;
@@ -57,7 +55,6 @@ h1 {
   color: #00f0ff;
   text-shadow: 0 0 15px rgba(0, 240, 255, 0.6);
 }
-
 h2 {
   margin: 20px 0;
   font-size: 22px;
@@ -84,7 +81,6 @@ button {
   box-shadow: 0 0 20px rgba(168, 85, 247, 0.5);
   transition: transform 0.2s;
 }
-
 button:hover {
   transform: scale(1.05);
 }
@@ -111,7 +107,6 @@ button:hover {
   background: #22c55e !important;
   border-color: #22c55e !important;
 }
-
 .wrong {
   background: #ef4444 !important;
   border-color: #ef4444 !important;
